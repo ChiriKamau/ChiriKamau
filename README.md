@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChiriKamau
+- 👋 Hi, I’m @Chiri
 - 👀 I’m interested in Emmbedded system, networks
 - 🌱 I’m currently learning programming microcontrollers
 - 💞️ I’m looking to collaborate on Anyone doing embedded proramming
